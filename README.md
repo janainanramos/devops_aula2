@@ -1,5 +1,6 @@
 # devops_aula2
 
 Emma Watson
-Daniel Radcliffe
+Bonnie Wrigth
 Rubert Grunt
+Tom Felton
